@@ -1,0 +1,39 @@
+
+[
+    {
+
+      "experience": "5 years",
+      "instrument": "Guitar",
+      "location": "Los Angeles",
+      "genres": "Rock, Blues, Jazz",
+      "image": "https://www.billboard.com/wp-content/uploads/media/02-drake-photo-gallery-2018-billboard-1548.jpg?w=875&h=583&crop=1",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam aliquam semper nibh, vitae varius velit dictum ut."
+    },
+    {
+   
+      "experience": "10 years",
+      "instrument": "Drums",
+      "location": "San Francisco",
+      "genres": "Metal, Punk, Alternative",
+      "image": "https://static.boredpanda.com/blog/wp-content/uploads/2018/09/Colorized-Photographs-done-by-me-last-year-Spent-about-3000-hours-for-about-300-images-5b8d27fe0e17f__880.jpg",
+      "text": "Fusce laoreet eget dui vel bibendum. Aenean condimentum quis nulla id egestas. Vestibulum dapibus augue ac lorem lacinia euismod."
+    },
+    {
+    
+      "experience": "3 years",
+      "instrument": "Bass",
+      "location": "New York",
+      "genres": "Funk, Reggae, Hip Hop",
+      "image": "https://images2.minutemediacdn.com/image/upload/c_fill,w_2160,ar_16:9,f_auto,q_auto,g_auto/shape%2Fcover%2Fsport%2F62455-shout-factory1-869b74b647b88045caac956956bd1ff8.jpg",
+      "text": "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Maecenas nec consequat nisi, sed tempus est."
+    },
+    {
+    
+        "experience": "4 years",
+        "instrument": "Guitar",
+        "location": "Santa Monica",
+        "genres": "Rock, Blues, Jazz",
+        "image": "https://imgix.ranker.com/user_node_img/73/1450902/original/lindsay-lohan-recording-artists-and-groups-photo-u117?auto=format&q=60&fit=crop&fm=pjpg&dpr=2&w=650",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam aliquam semper nibh, vitae varius velit dictum ut."
+      }
+  ]
